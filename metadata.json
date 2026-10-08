@@ -1,0 +1,8 @@
+{
+  "name": "Student Performance Analysis System",
+  "description": "An interactive educational analytics suite mapping subject marks, attendance rates, academic categories, sessional components, student comparisons, and dynamic qualitative progress remarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
